@@ -1,0 +1,21 @@
+{
+  "name": "lrucache",
+  "version": "1.0.0",
+  "description": "'JavaScript, LRU cache implementation'",
+  "main": "src/cache.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VKapustin/lrucache.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Slava (Viacheslav) Kapustin",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.4.0",
+    "@babel/preset-env": "^7.4.3",
+    "jest": "^24.7.1"
+  }
+}
